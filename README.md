@@ -1,27 +1,27 @@
-# 🎓 School Management System in Python
+#  School Management System in Python
 
 A Python-based School Management System that manages student admission records, subject-wise marks, automatic roll number ranking based on total marks, grade calculation, class topper identification, and detailed student report generation.
 
 ---
 
-## ✨ Features
+##  Features
 
-- ➕ Add new students
-- 📋 Show all students
-- 📝 Add subject-wise marks
-- 📊 Automatic total, average, and percentage calculation
-- 🏆 Automatic roll number assignment based on rank
-- 🎯 Grade calculation
-- ✅ Pass/Fail status
-- 🔍 Search student by serial number
-- 🗑️ Delete student records
-- 👑 Show class topper
-- 👤 View complete student profile
-- 📑 Generate full class report sorted by roll number
+-  Add new students
+-  Show all students
+-  Add subject-wise marks
+-  Automatic total, average, and percentage calculation
+-  Automatic roll number assignment based on rank
+-  Grade calculation
+-  Pass/Fail status
+-  Search student by serial number
+-  Delete student records
+-  Show class topper
+-  View complete student profile
+-  Generate full class report sorted by roll number
 
 ---
 
-## 📚 Subjects Included
+##  Subjects Included
 
 - First Language
 - Second Language
@@ -34,7 +34,7 @@ A Python-based School Management System that manages student admission records, 
 
 ---
 
-## 🏅 Grade System
+##  Grade System
 
 | Average Marks | Grade |
 |-------------:|:-----:|
@@ -47,7 +47,7 @@ A Python-based School Management System that manages student admission records, 
 
 ---
 
-## 📌 Roll Number System
+##  Roll Number System
 
 - **Serial Number** = Admission Order
 - **Roll Number** = Rank Based on Total Marks
@@ -55,7 +55,7 @@ A Python-based School Management System that manages student admission records, 
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python 3
 - Dictionary Data Structure
@@ -64,10 +64,13 @@ A Python-based School Management System that manages student admission records, 
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 1. Install Python 3
 2. Clone the repository
+
+## Author
+Debnarayan Dhara
 
 ```bash
 git clone https://github.com/your-username/school-management-system-python.git
