@@ -73,4 +73,4 @@ A Python-based School Management System that manages student admission records, 
 Debnarayan Dhara
 
 ```bash
-git clone https://github.com/your-username/school-management-system-python.git
+git clone https://github.com/DebnarayanDhara/school-management-system-python.git
